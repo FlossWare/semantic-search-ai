@@ -4,7 +4,7 @@ Semantic Search AI - Advanced semantic search toolkit
 Production-grade search enhancements for AI applications.
 """
 
-__version__ = "0.1"
+__version__ = "0.2"
 __author__ = "FlossWare (sfloess)"
 __license__ = "GPL-3.0"
 
