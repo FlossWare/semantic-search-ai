@@ -8,7 +8,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="semantic-search-ai",
-    version="0.4",
+    version="0.5",
     author="FlossWare (sfloess)",
     description="Advanced semantic search toolkit for AI applications",
     long_description=open("../README.md").read() if __file__ else "",
