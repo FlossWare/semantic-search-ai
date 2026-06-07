@@ -144,3 +144,4 @@ pip install semantic-search-ai
 ## License
 
 GPL-3.0 - FlossWare (sfloess)
+
